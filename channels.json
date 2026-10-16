@@ -25,4 +25,10 @@
     "logo": "https://wikimedia.org",
     "url":   "https://ch16israel-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8"
   }
+   ,
+  {
+    "name": "channel 24",
+    "logo": "https://wikimedia.org",
+    "url":   "https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8"
+  }
 ]
