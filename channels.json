@@ -1,22 +1,28 @@
 [
   {
-    "name": "ערוץ כאן 11",
+    "name": "kan 11",
     "logo": "https://wikimedia.org",
     "url": "https://n-121-6.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11_subs/live.livx/playlist.m3u8?dvr=21600000"
   },
    {
-    "name": "ערוץ כאן .1גיבוי ",
+    "name": "keshet 12 ",
     "logo": "https://wikimedia.org",
-    "url": "https://n-121-6.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11_subs/live.livx/playlist.m3u8?dvr=21600000"
+    "url":  "http://stream.mcquack.net/294/index.m3u8"
   },
    {
-    "name": "2ערוץ כאן .1גיבוי ",
+    "name": "reshet 13",
     "logo": "https://wikimedia.org",
-    "url": "https://n-121-6.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11_subs/live.livx/playlist.m3u8?dvr=21600000"
+    "url":  "https://13tv.co.il/allshows/2010263/"
   },
   {
-    "name": "ערוץ 12",
+    "name": "channel 14",
     "logo": "https://wikimedia.org",
-    "url": "http://stream.mcquack.net/294/index.m3u8"
+    "url":   "https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8"
+  }
+  ,
+  {
+    "name": "channel 16",
+    "logo": "https://wikimedia.org",
+    "url":   "https://ch16israel-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8"
   }
 ]
