@@ -1,4 +1,4 @@
-  {
+  [{
     "name": "kan 11",
     "logo": "https://wikimedia.org",
     "url": "https://n-121-6.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11_subs/live.livx/playlist.m3u8?dvr=21600000"
@@ -41,4 +41,4 @@
     "name": "c5n",
     "logo": "https://wikimedia.org",
     "url":   "https://www.youtube.com/c/c5n/live"
-  }
+  }]
